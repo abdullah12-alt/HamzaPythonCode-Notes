@@ -1,0 +1,46 @@
+Understanding Command Prompt and File Systems
+
+The command prompt is a powerful tool that helps us navigate through the computer's file system. A file system is like a digital filing cabinet, organizing files and folders in a way that makes sense. Think of it as a system that helps you find and store files on your computer.
+
+File System Basics
+
+In simple terms, a file system is how your computer keeps track of files. It decides where to store them and how to retrieve them when needed. Each file has an extension (like .py, .txt, or .exe) that indicates its type. For example, a Python script has a .py extension, and a text file has a .txt extension.
+
+Files are kept in folders, also called directories. Imagine folders as virtual containers that help keep similar files together. Operating systems, like Windows, Mac, and Linux, have commands to interact with the file system.
+
+Operating System (OS) Defined
+
+The operating system (OS) is like the boss of your computer. It manages all the hardware and software, making sure everything works together. Windows is a common OS, while Mac and Linux are other options. Troubleshooting might be a bit different depending on the OS.
+
+Exploring the OS Module
+
+The command prompt has a cool feature called the `os` module. It's like a toolbox full of commands to interact with the operating system. Here are some handy commands:
+
+- `getcwd()`: Finds out the current working directory.
+- `chdir()`: Changes the current working directory.
+- `listdir()`: Lists all files and directories in a specified directory.
+
+Windows CMD Equivalents
+
+If you're using the Windows command prompt, here are equivalent commands:
+
+- `cd`: Changes the current working directory.
+- `mkdir`: Creates a new directory.
+- `rmdir`: Removes an empty directory.
+- `del`: Deletes a file.
+
+Additional Windows CMD Functions
+
+Windows command prompt enables you to:
+
+- Change the current working directory: `cd`
+- Make a directory: `mkdir`
+- Remove an empty directory: `rmdir`
+- Delete a file: `del /f filename` (where `/f` is optional but forces deletion)
+
+
+
+Code : 
+
+
+Check  in code file 
