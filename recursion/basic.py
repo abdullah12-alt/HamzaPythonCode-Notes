@@ -5,7 +5,7 @@ def number(n):
     print(n)
     return number(n-1)
 
-number(996)
+number(5)
 
 
 # def factorial(n):
